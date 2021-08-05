@@ -1,0 +1,12 @@
+{
+  "students": [
+    {
+      "id": 0,
+      "name": "reserved ids 0-999"
+    },
+    {
+      "id": 1000,
+      "name": "Actual A. Student"
+    }
+  ]
+}

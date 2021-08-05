@@ -1,0 +1,13 @@
+<h1>{{title}}</h1>
+<p>for testing stuff</p>
+<div id="output">
+  -- output --
+</div>
+<script src="js/console.js"></script>
+<script>
+  const console = sriquire('console'); // sriquire defined in console.js
+  const { MakeHTMLConsole } = console;
+  const term = MakeHTMLConsole('output');
+  term.print('hello')
+  term.plot('jason', 2, 10)
+</script>
