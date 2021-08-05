@@ -1,7 +1,7 @@
 {
-  "name": "express-example-starter",
+  "name": "express-sribox-collab",
   "version": "1.0.0",
-  "description": "An Express-based application skeleton",
+  "description": "Collaboration with Jason on figuring out Express stuff",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js localhost 8080"
@@ -17,8 +17,5 @@
   "devDependencies": {
     "nodemon": "1.18.4"
   },
-  "keywords": [
-    "expressjs",
-    "express"
-  ]
+  "keywords": []
 }
